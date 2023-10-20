@@ -36,7 +36,7 @@ and weekly_hosp_admissions_per_million.
 
 - You can find the SQL queries used to create the data tables in this project in the following file:
   
-[Create Tables SQL File](https://github.com/hoora-mohseni/PortfolioProjects/blob/main/TablueaQueries.sql)
+  [Create Tables SQL File](https://github.com/hoora-mohseni/PortfolioProjects/blob/main/TablueaQueries.sql)
 
 
 ## Instructions
