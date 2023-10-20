@@ -29,8 +29,11 @@ For vaccination data:
 
 ## Data Tables
 The project includes two tables:
-- `CovidDeath`: Contains data related to COVID deaths, including location, date, total cases, new cases, total deaths, and population.
-- `CovidVaccination`: Contains data related to COVID vaccinations, including location, date, and new vaccinations.
+- `CovidDeath`: Contains data related to COVID deaths, including iso_code,	continent, location,	date,	population,	total_cases,	new_cases,	new_cases_smoothed,	total_deaths,	new_deaths,	total_cases_per_million,	new_cases_per_million, total_deaths_per_million,	new_deaths_per_million,	new_deaths_smoothed_per_million,	reproduction_rate	icu_patients,	icu_patients_per_million,	hosp_patients,	hosp_patients_per_million,	weekly_icu_admissions,	weekly_icu_admissions_per_million,	weekly_hosp_admissions,
+and weekly_hosp_admissions_per_million.
+
+- `CovidVaccination`: Contains data related to COVID vaccinations, including iso_code,	continent,	location,	date,	total_tests,	new_tests,	total_tests_per_thousand,	new_tests_per_thousand,	new_tests_smoothed,	new_tests_smoothed_per_thousand,	positive_rate	tests_per_case,	tests_units,	total_vaccinations,	people_vaccinated,	people_fully_vaccinated,	total_boosters,	new_vaccinations,	new_vaccinations_smoothed,	total_vaccinations_per_hundred,	total_boosters_per_hundred, stringency_index	median_age,	aged_65_older,	aged_70_older,	gdp_per_capita, and	extreme_poverty.
+
 
 ## Instructions
 1. To use this project, make sure you have a SQL database set up and ready.
