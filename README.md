@@ -34,6 +34,9 @@ and weekly_hosp_admissions_per_million.
 
 - `CovidVaccination`: Contains data related to COVID vaccinations, including iso_code,	continent,	location,	date,	total_tests,	new_tests,	total_tests_per_thousand,	new_tests_per_thousand,	new_tests_smoothed,	new_tests_smoothed_per_thousand,	positive_rate	tests_per_case,	tests_units,	total_vaccinations,	people_vaccinated,	people_fully_vaccinated,	total_boosters,	new_vaccinations,	new_vaccinations_smoothed,	total_vaccinations_per_hundred,	total_boosters_per_hundred, stringency_index	median_age,	aged_65_older,	aged_70_older,	gdp_per_capita, and	extreme_poverty.
 
+- You can find the SQL queries used to create the data tables in this project in the following file: 
+- [Create Tables SQL File](https://github.com/hoora-mohseni/PortfolioProjects/blob/main/TablueaQueries.sql)
+
 
 ## Instructions
 1. To use this project, make sure you have a SQL database set up and ready.
