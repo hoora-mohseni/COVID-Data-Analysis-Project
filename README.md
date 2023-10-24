@@ -10,7 +10,8 @@ This project is an analysis of COVID-19 data from the years 2021 and 2022. The d
 
 ## Introduction
 This project aims to provide insights into COVID-19 statistics from the selected years. It includes analysis on both COVID deaths and vaccinations. The data has been organized into two SQL tables: `CovidDeath` and `CovidVaccination`, with common key columns for comparison.
-You can find the Tableau Dashboard(visualization) on linke below.
+
+You can also find the Tableau Dashboard(visualization) on linke below.
 [Covid Tableau Dashboard](https://public.tableau.com/app/profile/hoora.mohseni/viz/CovidDashboardTutorial_16981685176540/Dashboard1?publish=yes)
 
 ## SQL Code
